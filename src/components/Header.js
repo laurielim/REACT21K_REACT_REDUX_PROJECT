@@ -28,6 +28,11 @@ const Header = () => {
 							Products
 						</NavLink>
 					</li>
+					<li>
+						<NavLink exact to='/rocks-basket'>
+							Basket
+						</NavLink>
+					</li>
 				</ul>
 			</nav>
 		</header>

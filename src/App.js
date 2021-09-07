@@ -5,8 +5,9 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
-import Products from "./pages/Products";
 import About from "./pages/About";
+import Basket from "./pages/Basket";
+import Products from "./pages/Products";
 import SingleProduct from "./pages/SingleProduct";
 
 const App = () => {
@@ -17,6 +18,9 @@ const App = () => {
 				<Switch>
 					<Route path='/about'>
 						<About />
+					</Route>
+					<Route path='/rocks-basket'>
+						<Basket />
 					</Route>
 					<Route path='/products/:id'>
 						<SingleProduct />
