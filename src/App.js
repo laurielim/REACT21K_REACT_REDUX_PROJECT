@@ -1,5 +1,8 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
 import Products from "./pages/Products";
@@ -9,21 +12,8 @@ import SingleProduct from "./pages/SingleProduct";
 const App = () => {
 	return (
 		<Router>
-			<div>
-				<nav>
-					<ul>
-						<li>
-							<Link to='/'>Home</Link>
-						</li>
-						<li>
-							<Link to='/about'>About</Link>
-						</li>
-						<li>
-							<Link to='/products'>Products</Link>
-						</li>
-					</ul>
-				</nav>
-
+			<Header />
+			<main>
 				<Switch>
 					<Route path='/about'>
 						<About />
@@ -38,7 +28,8 @@ const App = () => {
 						<Home />
 					</Route>
 				</Switch>
-			</div>
+			</main>
+			<Footer />
 		</Router>
 	);
 };
