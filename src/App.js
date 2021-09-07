@@ -1,6 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import About from "./pages/About";
+import SingleProduct from "./pages/SingleProduct";
+
 const App = () => {
 	return (
 		<Router>
@@ -23,6 +28,9 @@ const App = () => {
 					<Route path='/about'>
 						<About />
 					</Route>
+					<Route path='/products/:id'>
+						<SingleProduct />
+					</Route>
 					<Route path='/products'>
 						<Products />
 					</Route>
@@ -34,17 +42,5 @@ const App = () => {
 		</Router>
 	);
 };
-
-function Home() {
-	return <h2>Home</h2>;
-}
-
-function About() {
-	return <h2>About</h2>;
-}
-
-function Products() {
-	return <h2>Products</h2>;
-}
 
 export default App;
