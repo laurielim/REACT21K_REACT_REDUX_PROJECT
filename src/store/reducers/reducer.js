@@ -2,6 +2,10 @@ import * as actionTypes from "../actions/actions";
 
 const initialState = {
 	rocks: [],
+	basket: {
+		total: 0,
+		products: [],
+	},
 };
 
 const reducer = (state = initialState, action) => {

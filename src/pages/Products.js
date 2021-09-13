@@ -1,11 +1,11 @@
 import React from "react";
-import ProductList from "../containers/ProductList";
+import ProductsContainer from "../containers/ProductsContainer";
 
 const Products = () => {
 	return (
 		<>
 			<h2>Products</h2>
-			<ProductList></ProductList>
+			<ProductsContainer />
 		</>
 	);
 };

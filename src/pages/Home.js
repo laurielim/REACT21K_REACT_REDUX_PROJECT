@@ -1,11 +1,15 @@
 import React from "react";
-import ProductCategories from "../containers/ProductCategories";
+import HomeBanner from "../components/HomeBanner";
+import ProductCategoriesContainer from "../containers/ProductCategoriesContainer";
+import ProductsPreviewContainer from "../containers/ProductsPreviewContainer";
 
 const Home = () => {
 	return (
 		<>
 			<h2>Home</h2>
-			<ProductCategories></ProductCategories>
+			<HomeBanner />
+			<ProductCategoriesContainer />
+			<ProductsPreviewContainer />
 		</>
 	);
 };
