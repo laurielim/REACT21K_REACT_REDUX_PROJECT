@@ -5,7 +5,7 @@ const ProductsPreview = () => {
 	return (
 		<section>
 			<h3>Our Products</h3>
-			<ProductCard />
+			{/* <ProductCard /> */}
 		</section>
 	);
 };

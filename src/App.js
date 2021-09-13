@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { useDispatch } from "react-redux";
 
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -10,7 +11,15 @@ import Basket from "./pages/Basket";
 import Products from "./pages/Products";
 import SingleProduct from "./pages/SingleProduct";
 
+import { initializeRocks } from "./store/reducers/reducer";
+
 const App = () => {
+	const dispatch = useDispatch();
+
+	useEffect(() => {
+		dispatch(initializeRocks());
+	}, [dispatch]);
+
 	return (
 		<Router>
 			<Header />
