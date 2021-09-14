@@ -1,22 +1,12 @@
 import * as actionTypes from "../actions/actions";
 import rocksServices from "../../services/rocks";
 
-const initialState = {
-	rocks: [],
-	basket: {
-		total: 0,
-		products: [],
-	},
-};
+const initialState = [];
 
-const reducer = (state = initialState, action) => {
+const rocksReducer = (state = initialState, action) => {
 	switch (action.type) {
 		case actionTypes.INIT_ROCKS:
-			return { ...state, rocks: action.data };
-		case actionTypes.ADD_TO_BASKET:
-			return { ...state };
-		case actionTypes.REMOVE_FROM_BASKET:
-			return { ...state };
+			return action.data;
 		default:
 			return state;
 	}
@@ -32,4 +22,4 @@ export const initializeRocks = () => {
 	};
 };
 
-export default reducer;
+export default rocksReducer;

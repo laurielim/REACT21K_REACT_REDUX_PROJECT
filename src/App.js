@@ -11,7 +11,7 @@ import Basket from "./pages/Basket";
 import Products from "./pages/Products";
 import SingleProduct from "./pages/SingleProduct";
 
-import { initializeRocks } from "./store/reducers/reducer";
+import { initializeRocks } from "./store/reducers/rocksReducer";
 
 const App = () => {
 	const dispatch = useDispatch();

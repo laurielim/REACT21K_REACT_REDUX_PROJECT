@@ -1,8 +1,17 @@
-import { createStore, applyMiddleware } from "redux";
+import { createStore, applyMiddleware, combineReducers } from "redux";
 import { composeWithDevTools } from "redux-devtools-extension";
-import reducer from "./reducers/reducer";
+import rocksReducer from "./reducers/rocksReducer";
+import basketReducer from "./reducers/basketReducer";
 import thunk from "redux-thunk";
 
-const store = createStore(reducer, composeWithDevTools(applyMiddleware(thunk)));
+const rootReducer = combineReducers({
+	rocks: rocksReducer,
+	basket: basketReducer,
+});
+
+const store = createStore(
+	rootReducer,
+	composeWithDevTools(applyMiddleware(thunk))
+);
 
 export default store;
