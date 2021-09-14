@@ -11,8 +11,8 @@ const ProductsPreview = () => {
 			<h3>Our Products</h3>
 			<ul>
 				{rockSample.map((rock) => (
-					<li>
-						<ProductCard key={rock.id} rock={rock} />
+					<li key={rock.id}>
+						<ProductCard rock={rock} />
 					</li>
 				))}
 			</ul>

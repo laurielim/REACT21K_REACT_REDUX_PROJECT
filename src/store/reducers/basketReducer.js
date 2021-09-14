@@ -1,5 +1,4 @@
 import * as actionTypes from "../actions/actions";
-// import rocksServices from "../../services/rocks";
 
 const initialState = {
 	totalCost: 0,
@@ -9,9 +8,15 @@ const initialState = {
 const basketReducer = (state = initialState, action) => {
 	switch (action.type) {
 		case actionTypes.ADD_TO_BASKET:
-			return { ...state };
+			return {
+				totalCost: state.totalCost + action.data.price,
+				basketItems: [...state.basketItems, action.data],
+			};
 		case actionTypes.REMOVE_FROM_BASKET:
-			return { ...state };
+			return {
+				totalCost: state.totalCost - action.price,
+				basketItems: state.basketItems.filter((item) => item.id !== action.id),
+			};
 		default:
 			return state;
 	}
