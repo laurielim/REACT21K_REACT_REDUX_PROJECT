@@ -3,6 +3,8 @@ import { NavLink } from "react-router-dom";
 
 import logo from "../img/logo.png";
 
+import BasketCounter from "../containers/BasketCounter";
+
 const Header = () => {
 	return (
 		<header className='header'>
@@ -30,7 +32,7 @@ const Header = () => {
 					</li>
 					<li>
 						<NavLink exact to='/rocks-basket'>
-							Basket
+							Basket ({<BasketCounter />})
 						</NavLink>
 					</li>
 				</ul>
