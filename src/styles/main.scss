@@ -13,34 +13,28 @@ h4,
 p,
 ul,
 ol,
-li,
-dd,
-figure,
-figcaption,
-dl,
-dd,
-dt {
-	margin: 0px;
-	padding: 0px;
+li {
+	margin: 0;
+	padding: 0;
 }
 
-/* Inherit colors */
 h1,
 h2,
 h3,
-h4,
-li,
-dt,
-dd {
+h4 {
 	font-family: $gfont;
-	color: $text_color;
 }
 
-p {
-	color: $text_color;
-	font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
-		monospace;
-	font-size: 16px;
+h2 {
+	font-size: 3rem;
+}
+
+h3 {
+	font-size: 2.5rem;
+}
+
+h4 {
+	font-size: 2rem;
 }
 
 body {
@@ -49,11 +43,13 @@ body {
 	/* Anchor links will transition rather than skip */
 	scroll-behavior: smooth;
 	/* Reset font size to 1rem, in case it has a pixel value */
+	color: $text_color;
+	background-color: $background_color;
+	font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+		monospace;
 	font-size: 1rem;
 	min-height: 100vh;
 	position: relative;
-	background-color: $background_color;
-	font-size: 25px;
 }
 
 main {
@@ -63,7 +59,6 @@ main {
 footer {
 	position: absolute;
 	bottom: 0;
-	width: 100%;
 	height: 2.5rem; /* Footer height */
 }
 
@@ -90,11 +85,6 @@ input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder,
 select::-webkit-input-placeholder {
 	line-height: normal;
-}
-
-/* Make a search box appear like a text box */
-input[type="search"] {
-	-webkit-appearance: textfield;
 }
 
 /* Make images responsive */
@@ -126,17 +116,34 @@ img {
 	}
 }
 
+#root {
+	margin: 0 auto;
+	max-width: 960px;
+	width: 100%;
+}
+
 header {
+	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
-
+	padding: 2rem 0 1rem 0;
 	ul {
 		list-style-type: none;
 
 		li {
 			display: inline-block;
-			width: 100px;
+			text-align: center;
+			padding: 0 1.2rem;
+		}
+	}
+
+	.nav-link {
+		color: inherit;
+		font-size: 1.5rem;
+		text-decoration: none;
+
+		&.active {
+			border-bottom: 0.3rem solid $accent-color2;
 		}
 	}
 }

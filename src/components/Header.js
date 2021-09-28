@@ -1,5 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
 
 import logo from "../img/logo.png";
 
@@ -16,23 +18,23 @@ const Header = () => {
 			<nav>
 				<ul>
 					<li>
-						<NavLink exact to='/'>
+						<NavLink className='nav-link' exact to='/'>
 							Home
 						</NavLink>
 					</li>
 					<li>
-						<NavLink exact to='/about'>
+						<NavLink className='nav-link' exact to='/about'>
 							About
 						</NavLink>
 					</li>
 					<li>
-						<NavLink exact to='/products'>
+						<NavLink className='nav-link' exact to='/products'>
 							Products
 						</NavLink>
 					</li>
 					<li>
-						<NavLink exact to='/rocks-basket'>
-							Basket ({<BasketCounter />})
+						<NavLink className='nav-link' exact to='/rocks-basket'>
+							<FontAwesomeIcon icon={faShoppingBasket} />({<BasketCounter />})
 						</NavLink>
 					</li>
 				</ul>
