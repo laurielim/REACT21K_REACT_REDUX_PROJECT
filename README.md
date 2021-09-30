@@ -1,5 +1,7 @@
 # React Redux Project
 
+[![CI](https://github.com/laurielim/REACT21K_REACT_REDUX_PROJECT/actions/workflows/main.yml/badge.svg)](https://github.com/laurielim/REACT21K_REACT_REDUX_PROJECT/actions/workflows/main.yml)
+
 This repo contains the course project I did throughout the React and Redux advanced course which is part of the Full Stack Web Developer Program at [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/). The project consists of an ecommerce platform called the "The Rock Shop".
 
 ## Technologies used
