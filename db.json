@@ -5,7 +5,7 @@
 			"title": "Steven Universe",
 			"price": 999.99,
 			"description": "Steven is the youngest member of the Crystal Gems. He is the first and only known Gem–human hybrid, the product of the union between the Crystal Gems' original leader, Rose Quartz, and Greg Universe, a human musician and car-wash owner. Rose gave up her physical form to create Steven, leaving behind only her pink, pentagonal-faceted gem, now embedded in his navel. As a result, some Gems have considered Steven and Rose to be the same entity; a major character arc for Steven involves his wrestling with his mother's complex legacy, and whether he must take responsibility for her choices.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://www.kindpng.com/picc/m/564-5646317_steven-universe-la-pelcula-steven-hd-png-download.png"
 		},
 		{
@@ -13,7 +13,7 @@
 			"title": "Garnet",
 			"price": 999.99,
 			"description": "Garnet is the fusion of Ruby and Sapphire and the current de-facto leader of the Crystal Gems. Garnet is one of the last surviving Gems on Earth who joined the Crystal Gems in the Rebellion against the Gem Homeworld and afterward assisted her friends in protecting the Earth over the next few millennia. After Rose Quartz gave up her physical form to give birth to her son, Steven Universe, Garnet took over as the leader of the group.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Garnet_-_Steven_Universe.png"
 		},
 		{
@@ -21,7 +21,7 @@
 			"title": "Sapphire",
 			"price": 699.99,
 			"description": "Sapphire is a member of the Crystal Gems who made her official debut in 'Jail Break'. Previously a member of Blue Diamond's court, her mission was to inform her Diamond about the Rebels' attack using her future vision. After one of her guards, Ruby, accidentally fused with her, Sapphire fled with her to prevent her from being shattered by Blue Diamond. Sapphire later joined the Crystal Gems and remains together with Ruby as their fusion, Garnet.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://i.pinimg.com/originals/6d/15/48/6d154892a0eaab9a9665c9aa9bcf3421.jpg"
 		},
 		{
@@ -29,7 +29,7 @@
 			"title": "Ruby",
 			"price": 699.99,
 			"description": "Ruby is a member of the Crystal Gems who made her official debut in 'Jail Break'. Originally a Homeworld Gem soldier assigned to protect Sapphire during a mission on Earth, the two accidentally fused and were forced to flee to prevent Ruby from being shattered by Blue Diamond. Ruby later joined the Crystal Gems and remains together with Sapphire as their fusion, Garnet.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://www.pngkey.com/png/detail/42-424366_zeemumu-steven-universe-ruby-army.png"
 		},
 		{
@@ -37,7 +37,7 @@
 			"title": "Amethyst",
 			"price": 999.99,
 			"description": "Amethyst (specifically Amethyst Facet-5 Cut-8XM) is a member of the Crystal Gems. She is the last known Gem manufactured on Earth as a part of the Gem Homeworld's Kindergarten project, being one of the last surviving Gems on Earth. After being found by Rose Quartz and the other Crystal Gems, Amethyst helped her friends protect the Earth over the next four millennia, and often aids in the shenanigans of Steven Universe.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://i.pinimg.com/originals/82/48/12/8248126b0a78edd12ca3d1751d16bb9f.png"
 		},
 		{
@@ -45,7 +45,7 @@
 			"title": "Pearl",
 			"price": 999.99,
 			"description": "Pearl is a member of the Crystal Gems. She was Pink Diamond's second Pearl, and one of Rose Quartz's closest followers and her sole confidant. Pearl is one of the last surviving Gems on Earth who joined the Crystal Gems in their rebellion against the Gem Homeworld. Pearl would afterward protect the Earth over the next several millennia alongside her friends, while later teaching Steven the ways of Gems.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Pearl_page_image.png"
 		},
 		{
@@ -53,7 +53,7 @@
 			"title": "Jasper",
 			"price": 699.99,
 			"description": "Jasper is a Homeworld Gem.. Originally sent to Earth to aid Peridot on her mission, she became corrupted after fusing with one of the Corrupted Gems that she had held captive. She was healed alongside the rest of the Corrupted Gems and for a time lived on her own in the wooded outskirts of Beach City. She now resides in Little Homeworld, beginning to learn a new way of life.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://www.kindpng.com/picc/m/397-3974065_jasper-steven-universe-characters-hd-png-download.png"
 		},
 		{
@@ -61,7 +61,7 @@
 			"title": "Peridot",
 			"price": 699.99,
 			"description": "Peridot (specifically Peridot Facet-2F5L Cut-5XG) is a member of the Crystal Gems who was originally a Homeworld Gem technician and a certified Kindergartener. After being stranded on Earth, she acted as a recurring antagonist until becoming more of an anti-hero and pseudo-antagonist by establishing a truce with the Crystal Gems to help them save the Earth from the Cluster. She officially became a member after she defied her Homeworld superior, Yellow Diamond. For some time, Peridot lived in the barn with Lapis Lazuli, but began residing in the Crystal Temple after Lapis fled the planet with their home in 'Raising the Barn'.",
-			"Category": "Gem",
+			"category": "Gem",
 			"image": "https://www.pngitem.com/pimgs/m/33-336876_peridot-su-png-peridot-from-steven-universe-transparent.png"
 		},
 		{
@@ -69,7 +69,7 @@
 			"title": "Geodude",
 			"price": 199.99,
 			"description": "Geodude is a brownish-gray boulder Pokémon. It has bulging, rocky eyebrows, trapezoidal, brown eyes and a wide mouth. Its arms are muscular with five-fingered hands. Geodude uses its arms to climb steadily up steep mountain paths. It is proud of its sturdy body and will bash against others of its kind in a contest of sorts to prove whose body is harder. The longer it lives, the more chipped and worn its body becomes. Eventually, it will be completely smooth and round. As a result of their physical appearance, Rhyperior sometimes mistake this Pokémon for actual boulders and fire them through their hands.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
 		},
 		{
@@ -77,7 +77,7 @@
 			"title": "Graveler",
 			"price": 249.99,
 			"description": "Graveler is a bipedal, boulder Pokémon. Its round body is covered with small bumps and it has a rocky crest above its small eyes and mouth. It has four arms, each with a three-fingered hand. Its second pair of arms is typically kept tucked against its chest. It was shown in Pokémon Snap that, despite having legs, it can revert to a legless form. This grants it the ability to float.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
 		},
 		{
@@ -85,7 +85,7 @@
 			"title": "Golem",
 			"price": 299.99,
 			"description": "Golem is a bipedal tortoise-like Pokémon with a spherical body covered by a shell of plated, green rocks. Its body is so hard that even dynamite cannot scratch it. Its head protrudes from the center of the shell. The head has a flat snout with two pointed teeth in the lower jaw and red eyes. It has short arms that have three claws and two legs with feet that have four claws in front and one in back. The head and limbs are light brown in color. Golem grows bigger by shedding its skin once a year. The discarded shell immediately hardens when exposed to air, crumbling away and returning to the soil. However, it stops shedding with age and moss grows over its shell. As shown in the Pocket Monsters Carddass Trading Cards, Golem's shell is hollow.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
 		},
 		{
@@ -93,7 +93,7 @@
 			"title": "Onyx",
 			"price": 299.99,
 			"description": "Onix is a Pokémon composed of a giant chain of gray boulders that become smaller towards the tail. Its length makes it the tallest Rock-type Pokémon. It has black eyes and a rounded snout. On top of its head is a rocky spine. As it grows older, it becomes more rounded and smoother, eventually becoming similar to black diamonds. Inside its brain is a magnet that serves as an internal compass, guiding Onix wherever they need to go and prevents them from getting lost while digging.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
 		},
 		{
@@ -101,7 +101,7 @@
 			"title": "Rhyhorn",
 			"price": 199.99,
 			"description": "Rhyhorn is a rhinoceros-like Pokémon with a body covered in gray, rocky plates. Its underside and rear are smooth, and it has four short legs with two claws on each foot. It has a triangular head with narrow, red eyes, two fangs protruding from its upper jaw, small, triangular openings on the upper sides, and a short horn on the tip of its snout. A female will have a shorter horn than a male. A spiked ridge runs along its back. In addition to its rocky hide, its bones are a thousand times harder than human bones.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
 		},
 		{
@@ -109,7 +109,7 @@
 			"title": "Rhydon",
 			"price": 299.99,
 			"description": "Rhydon is a large, gray, bipedal Pokémon with features similar to both dinosaurs and rhinoceroses. It has narrow, red eyes and two fangs in its upper jaw. On the tip of Rhydon's snout is a cream-colored horn, which is smaller on a female than a male. There are several other spikes and projections on its head: on top is a spike that curves forward, two triangular points resembling ears on the sides, a wide, wavy crest under each ear, and spiky ridges on each cheek. It has a cream-colored abdomen divided into strips by thin divots. A rocky plate on its chest slightly overlaps its abdomen. There is a row of spikes down its back and they have a long tail with thin, black stripes.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
 		},
 		{
@@ -117,7 +117,7 @@
 			"title": "Omanyte",
 			"price": 199.99,
 			"description": "Omanyte is a small Pokémon similar to an ammonite. It has a sky blue body with ten tentacles and a pale yellow, helix-spiraled shell on its back. The shell's rim has two circular indents where Omanyte's large saucer-like eyes protrude. If attacked or threatened, it quickly withdraws into its hard shell.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
 		},
 		{
@@ -125,7 +125,7 @@
 			"title": "Omastar",
 			"price": 299.99,
 			"description": "Omastar is a Pokémon similar to an ammonite. Its sky blue body has several tentacles; the tentacles toward the front are shorter and thicker than those in the back. There is a pale yellow, helix spiraled shell on its back. Several sharp spikes line the shell's midsection from the front to about halfway down its back. The shell's rim has two circular indents where Omastar's eyes are visible. Its eyes have yellow sclerae and vertically-slit pupils. It has an oval mouth with a four-sectioned, fang-like beak.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
 		},
 		{
@@ -133,7 +133,7 @@
 			"title": "Kabuto",
 			"price": 199.99,
 			"description": "Kabuto is a small Pokémon resembling a horseshoe crab. It is mostly flat with a protective, brown shell covering its body. There are two small, black eyes on top of its shell, which it uses for sight when it hides on the ocean floor. Underneath the shell is a black space that hides the structure of its main body. Only its four short, yellow legs and a second pair of luminescent red eyes are visible on its underside. In its original time, Kabuto was prominently found on beaches, likely aided by its fast and powerful swimming ability. While it is commonly believed to be extinct, isolated populations of Kabuto have been found to be unchanged for 300 million years.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
 		},
 		{
@@ -141,7 +141,7 @@
 			"title": "Kabutops",
 			"price": 299.99,
 			"description": "Kabutops is a bipedal Pokémon with a skeletal build. It has a flat, half-circular head with a point on each side and two small eyes on the front. It is mostly brown, except for its light gray chest and abdomen. There is a ridge down its back with three flat spines on either side and it has a flat, pointed tail. Instead of hands, its forearms have large, sharp, gray scythes. Its thin legs are brown lead to small feet with two large gray claws.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
 		},
 		{
@@ -149,7 +149,7 @@
 			"title": "Aerodactyl",
 			"price": 299.99,
 			"description": "Aerodactyl is a pterosaurian, bipedal Pokémon with several draconic features. It has large, membranous wings, as well as small, sharply pointed ears, narrow eyes, a ridged snout, a gaping mouth, and a strong lower jaw full of serrated fangs. Its body is covered in light blue-grey skin with violet wing membranes. Aerodactyl's wings consist of a membrane running from the side of the body to the tip of an elongated finger. The clawed hands at the end of each wing allow it to grasp objects. There is a hump-like ridge with a spike on its back, and it has a strong tail with an arrow-shaped tip. Its talon-like feet have two toes in front and one in the back and are capable of scooping up and tightly clutching its prey in flight.",
-			"Category": "Pokemon",
+			"category": "Pokemon",
 			"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
 		},
 		{
@@ -157,15 +157,15 @@
 			"title": "Young Rock",
 			"price": 1299.99,
 			"description": "Wrestling Rock is widely considered one of the greatest professional wrestlers of all time. He has had 17 championship reigns in WWE, including 10 as a world heavyweight champion, the WWF Intercontinental Championship twice and the WWF Tag Team Championship five times. He is the sixth WWF/E Triple Crown Champion, and the winner of the 2000 Royal Rumble.",
-			"Category": "Dwayne",
-			"image": "https://i.imgur.com/TrwuNH2.jpg"
+			"category": "Dwayne",
+			"image": "https://www.nicepng.com/png/full/101-1011609_dwayne-johnson-fanny-pack-meme-download-dwayne-johnson.png"
 		},
 		{
 			"id": 2000,
 			"title": "Wrestling Rock",
 			"price": 899.99,
 			"description": "Wrestling Rock is widely considered one of the greatest professional wrestlers of all time. He has had 17 championship reigns in WWE, including 10 as a world heavyweight champion, the WWF Intercontinental Championship twice and the WWF Tag Team Championship five times. He is the sixth WWF/E Triple Crown Champion, and the winner of the 2000 Royal Rumble.",
-			"Category": "Dwayne",
+			"category": "Dwayne",
 			"image": "https://www.wwe.com/f/styles/gallery_img_s/public/rd-talent/Stat/Dwayne_The_Rock_Johnson_stat.png"
 		},
 		{
@@ -173,15 +173,15 @@
 			"title": "Furious Rock",
 			"price": 599.99,
 			"description": "Furious Rock is known as Lucas 'Luke' Hobbs is a United States Diplomatic Security Service (DSS) agent and bounty hunter. He grew up in Samoa and his father ran an elaborate group of thieves, consisting of Hobbs' brothers, some of whom their father unrepentantly allowed to be killed, but Hobbs left the island after he turned his father in and has not returned for years.",
-			"Category": "Dwayne",
-			"image": "https://i.pinimg.com/originals/eb/0d/32/eb0d3232f805ca5e9aa888e00d53d79b.jpg"
+			"category": "Dwayne",
+			"image": "https://www.pnglib.com/wp-content/uploads/2020/01/dwayne-johnson-fast-furious_5e2600d1eb176.png"
 		},
 		{
 			"id": 2016,
 			"title": "Anime Rock",
 			"price": 899.99,
 			"description": "Anime Rock comes in the form of Maui, a boisterous demigod of South Pacific legend. With the power of his giant, magical fish hook, Maui serves as the audacious guardian of mankind. During one of his escapades, Maui awakened a terrible darkness that threatened to destroy the islands of Polynesia. This crisis forced Maui to join forces with Moana, a young hero chosen by the ocean, to save the world.",
-			"Category": "Dwayne",
+			"category": "Dwayne",
 			"image": "https://i.etsystatic.com/11600126/r/il/d90464/1282686724/il_fullxfull.1282686724_s0bl.jpg"
 		},
 		{
@@ -189,7 +189,7 @@
 			"title": "Baywatch Rock",
 			"price": 299.99,
 			"description": "Baywatch Rock takes on the role of Lieutenant Mitch Buchannon; Not to be confused with Mitch Buchannon who is played by David Hasselhoff in every season of Baywatch and Baywatch Nights plus in the first season of Baywatch Hawaii and also servers as Baywatch Rock's mentor.",
-			"Category": "Dwayne",
+			"category": "Dwayne",
 			"image": "https://i.pinimg.com/originals/01/c4/e7/01c4e7bfcab79e0f8a51c92b4372b098.jpg"
 		},
 		{
@@ -197,8 +197,8 @@
 			"title": "Jumanji Rock",
 			"price": 499.99,
 			"description": "Jumanji Rock, also know as Spencer Gilpin: An intelligent, but unconfident and neurotic high school student. In Jumanji, he is transformed into Dr. Xander 'Smolder' Bravestone, a strong, confident archaeologist and explorer.",
-			"Category": "Dwayne",
-			"image": "https://i.pinimg.com/474x/37/45/8f/37458f201476540554ea4219801acba4.jpg"
+			"category": "Dwayne",
+			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ebd221d-3581-4775-8f4c-086c377bc4c3/de2puf7-77d378d3-0a9d-498b-b13d-112c41a47505.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlYmQyMjFkLTM1ODEtNDc3NS04ZjRjLTA4NmMzNzdiYzRjM1wvZGUycHVmNy03N2QzNzhkMy0wYTlkLTQ5OGItYjEzZC0xMTJjNDFhNDc1MDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M2BmMtcmvlpJSbT3IxmkTlv4Aa42IfrXP7FCbimDwhY"
 		}
 	]
 }
